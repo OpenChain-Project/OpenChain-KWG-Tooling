@@ -23,18 +23,18 @@
 | 18 | Ninka  | GPL-2.0  | - 소스코드용 경량 라이선스 식별 도구 <br /> - 문장 기반이고 소스코드 파일에서 오픈소스 라이선스를 식별하는 간단한 방법 제공 | https://ninka.turingmachine.org |
 | 19 | Opossum Tool | Apache-2.0  | - 오픈소스 라이선스 준수를 위해 대규모 코드베이스를 감사하고 인벤토리 하는 경량 앱 <br /> - 다양한 소스의 오픈소스 컴플라이언스 데이터를 관리하고 결합하기 위한 도구 <br /> - 대규모 코드베이스에 대한 규정 준수 정보를 검토하기 위한 경량 앱 <br /> - Opossum.UI: 애플리케이션에 사용되는 오픈소스 소프트웨어 검색, 오픈소스 코드 스캔에서 보고서 생성 | https://github.com/opossum-tool |
 | 20 | OSS Attribution Builder  | Apache-2.0  | - SW 제품에 대한 속성 문서를 만드는 데 도움이 되는 웹 사이트 | https://github.com/amzn/oss-attribution-builder |
-| 21 | OSS Discovery  |   | -  | https:// |
-| 22 | OSS Review Toolkit  |   | -  | https:// |
-| 23 | OSSPolice  |   | -  | https:// |
-| 24 | Quartermaster Project QMSTR  |   | -  | https:// |
-| 25 | ScanCode.io & ScanPipe  |   | -  | https:// |
-| 26 | ScanCode Toolkit  |   | -  | https:// |
-| 27 | SCANOSS  |   | -  | https:// |
-| 28 | SPDX Tools  |   | -  | https:// |
-| 29 | SPDX Maven Plugin  |   | -  | https:// |
-| 30 | TraceCode Toolkit  |   | -  | https:// |
-| 31 | Tern  |   | -  | https:// |
-| 32 | Vulnerability Assessment Tool  |   | -  | https:// |
-| 33 | REUSE  |   | -  | https:// |
-| 34 | FOSSLight  |   | -  | https:// |
-| 35 | ClearlyDefined  |   | -  | https:// |
+| 21 | OSS Discovery  | GPL-3.0  | - 응용 프로그램에 내장되고 컴퓨터에 설치된 오픈소스 SW 검색하는 스캐닝 도구 <br /> - 저작권자: OpenLogic | https://ossdiscovery.sourceforge.net |
+| 22 | OSS Review Toolkit  | Apache-2.0  | - 소스코드 및 종속성을 확인하여 오픈소스 라이선스 준수 여부 확인 <br /> - 종속성에 대한 소스코드를 분석하고, 라이선스 정보에 대한 모든 소스코드를 스캔하고 결과를 요약하는 방식으로 작동 <br /> - ORT를 구성하는 다양한 도구는 최소한의 명령줄 인터페이스(스크립트 모듈)가 있는 라이브러리로 설계 | https://github.com/oss-review-toolkit/ort |
+| 23 | OSSPolice  | GPL-3.0  | - 앱에서 잠재적인 자유 소프트웨어 라이선스 위반 및 알려진 n-day 보안취약점을 신속하게 식별가능한 위험 평가 서비스 | https://github.com/osssanitizer/osspolice |
+| 24 | Quartermaster Project QMSTR  | GPL-3.0  | - FOSS 규정 준수 문서를 작성하고 규정 준수 결정을 지원하기 위해 SW 빌드를 계측하는 명령줄 도구 모음 및 빌드 시스템 확장 <br /> - 마스터 프로세스는 빌드 중인 SW에 대한 정보 수집. 빈드 완료되면 여러 분석 도구를 실행하고 보고 <br /> - 모든 모듈은 마스터 컨텍스트에서 실행. 마스터는 빌드 클라이언트 파일 시스템에 영향을 주지 않고 모듈의 모든 종속성을 제공 | https://qmstr.org |
+| 25 | ScanCode.io & ScanPipe  | Apache-2.0 | ScanCode.io는 SCA 프로세스를 스크립팅하고 자동화하여 응용의 코드베이스에서 모든 오픈소스 구성 요소 및 해당 라이선스 준수 데이터를 식별하는 서버 <br /> - ScanPipe는 SW 분석가와 엔지니어가 실제 SW 구성 분석 프로젝트를 스크립팅된 파이프라인으로 구축하고 관리하는 데 도움  | https://scancodeio.readthedocs.io/en/latest/introduction.html# |
+| 26 | ScanCode Toolkit  | Apache-2.0  | - 라이선스, 저작권, 패키지 매니페스트, 직접 종속성, 소스/바이너리 파일에서 발견된 출처 및 라이선스 정보를 스캔하는 CLI 모음 <br /> - JSON, HTML, CSV 또는 SPDX로 저장할 수 있는 스캔 결과 제공 <br /> - ScanCode는 코드 분석 파이프라인, CI/CD와 쉽게 통합  | https://www.aboutcode.org |
+| 27 | SCANOSS  | GPL-2.0-or-later  | - 오픈소스 SCA 플랫폼이자 개방형 데이터 OSS 지식 기반 <br /> - SPDX 및 CycloneDX에서 SBOM 생성을 수행하고 스니펫, 파일 및 구성 요소 수준에서 오픈소스의 존재 감지 <br /> - 주심 구성 요소는 OpenAPI 표준을 기반으로 하는 RESTful API <br /> - 구성요소, 파일 및 스니펫을 모든 도구에 일치 가능. 공용 지식베이스 OSSKB는 osskb.org에서 사용 가능. 스캐닝은 익명 수행 | https://www.scanoss.com |
+| 28 | SPDX Tools  | Apache-2.0  | - 단일 다운로드에서 변환, 비교 및 검증 기능 제공하는 자바 CLI 도구 <br /> - 제공기능: TagToSpreadsheet, TagToRDF, RdfToTag, RdfToHtml RdfToSpreadsheet, SpreadsheetToRDF, SpreadsheetToTag, SPDXViewer, CompareMultipleSpdxDocs, CompareSpdxDocs, GenerateVerificationCode | https://spdx.dev/resources/tools |
+| 29 | SPDX Maven Plugin  | Apaceh-2.0  | - POM 파일에 설명된 산풀물에 대한 SPDX 문서를 생성하는 Maven 플러그인 | https://github.com/spdx/spdx-maven-plugin |
+| 30 | TraceCode Toolkit  | Apaceh-2.0  | - 제품에 대해 실제로 배포 또는 배포되는 구성 요소를 결정하는 도구 <br /> - 많은 라이선스가 배포에 의해서만 트리거되므로 오픈소스 라이선스 의무를 결정하는 필수 정보 <br /> - 추적된 빌드 실행을 분석하는 도구로, 어떤 파일이 바이너리에 빌드되고 궁극적으로 분산 SW에 배포되는지 확인 가능 | https://www.aboutcode.org |
+| 31 | Tern  | BSD-2-Clause  | - 컨테이너용 SW 패키지 검사도구(Python). 컨테이너 이미지에 설치된 패키지의 메타데이터 검색 <br /> - Dockerfile에서 레이어를 생성하는 데 사용된 컴포넌트 정보 제공 <br /> - 작업 수행 단계 <br /> 1) overlayfs를 사용하여 컨테이너 이미지의 첫번째 파일 시스템 계층을 마운트 <br /> 2) chroot 환경의 명령 라이브러리에서 스크립트를 실행하여 해당 계층에 설치된 패키지에 대한 정보 수집 <br /> - : 해당 정보를 기반으로 컨테이너 이미지의 나머지 레이어에 대하 1단계와 2단계를 계속 반복 <br /> - 3) 완료되면 다양한 형식의 보고서 생성. 기본 보고서는 어떤 계층이 어떤 SW 구성요소를 가져왔는지에 대한 설명 | https://github.com/tern-tools/tern |
+| 32 | Vulnerability Assessment Tool  | Apache-2.0  | - 응용 개발 중 오픈소스 구성 요소의 안전한 사용과 관련하여 SW 개발 조직 지원 <br /> - Java 및 Python 응용 분석하여 알려진 취약성이 있는 오픈소스 구성요소애 의존하는지 여부를 감지하고, 지정된 응용 컨텍스트에서 취약한 코드 실행에 관한 증거를 수집 지원 <br /> - 데이터 유출의 근본 원인인 알려진 취약성이 있는 구성 요소 사용, OWASP 상위 10대 보안위험 A9 해결 | https://github.com/eclipse/steady |
+| 33 | REUSE  |   | - 프로젝트 라이선스를 쉽게 부여할 수 있는 권장사항들 제공 | https://reuse.software |
+| 34 | FOSSLight  | AGPL-3.0  | - 소스코드 내에 저작권 및 라이선스 규칙을 준수했는지 확인하고 또 저작권 및 라이선스 정보를 쉽게 추가할 수 있도록 도와주는 도구 | https://fosslight.org |
+| 35 | ClearlyDefined  | CC0-1.0, MIT  | - ScanCode, FOSSology 통하여 사용가능한 데이터를 수집하고 모호함이나 격차가 발생할 때 해당 정보의 큐레이션을 크라우드 소싱함 <br /> - 목표는 업스트림 프로젝트에 새로 발견된 명확성을 제공하여 다음 릴리즈에 업데이트를 포함하여 보다 명확하게 정의되도록 하는 것 | https://clearlydefined.io |
