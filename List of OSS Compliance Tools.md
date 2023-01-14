@@ -13,9 +13,9 @@
 | 8 | Bubby  | MPL-2.0  | - 호환 SW를 안심하고 릴리즈할 수 있도록 지원하는 릴리즈 준비 플랫폼  <br /> - 보고 및 분석을 통해 릴리즈 프로세스에 대한 가시성을 확보하여 위험을 낮추고 품질을 높이며 주기 시간을 단축하고 지속적인 개선 | https://github.com/valocode/bubby |
 | 9 | CLA Assistant  | Apache-2.0  | - 기여자가 CLA에 서명할 수 있도록 하여 리포지토리에 대한 기여의 법적인 측면을 처리하는 도구  <br /> - CLA는 GitHub Gist 파일로 저장 후 CLA Assistant의 저장소/조직과 연결 가능 | https://github.com/cla-assistant/cla-assistant |
 | 10 | Cregit  | GPL-3.0  | -  소스코드의 기여자 식별 | https://github.com/cregit/cregit |
-| 11 | Deltacode  |   | -  | https:// |
-| 12 | Eclipse SW360  |   | -  | https:// |
-| 13 | Eclipse SW360antenna  |   | -  | https:// |
+| 11 | Deltacode  | Apache-2.0  | - 패키지, 구성요소, 코드베이스(제품)의 두 버전에 대한 ScanCode 스캔을 쉽게 비교가능하므로 라이선스 변경사항 식별에 중점을 두고 가능한 변경 사항을 빠르게 식별 가능 <br /> - ScanCode와 함께 DeltaCode를 사용하여 릴리즈 간 오픈소스 타사 SW 패키지, 구성 요소의 라이선스 및 관련 변경사항을 식별/추적 | https://www.aboutcode.org |
+| 12 | Eclipse SW360  | EPL-1.0  | - 조직에서 사용하는  | https:// |
+| 13 | Eclipse SW360antenna  | EPL-2.0  | -  | https:// |
 | 14 | Fossology  |   | -  | https:// |
 | 15 | LDBCollector  |   | -  | https:// |
 | 16 | License Compatibility Checker  |   | -  | https:// |
