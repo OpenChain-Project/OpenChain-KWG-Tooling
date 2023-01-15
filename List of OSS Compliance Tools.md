@@ -1,5 +1,7 @@
 초안 작성 중 (ETRI 박정숙)
 # List of Opensource Compliance tools
+참조: https://oss-compliance-tooling.org/Tooling-Landscape/OSS-Based-License-Compliance-Tools/ ![image](https://user-images.githubusercontent.com/22899832/212569721-d8e81119-8717-4a51-a31d-48d2256017cf.png)
+<br />
 ## 1) Feactures of each Compliance Tool
 | No  | Name  | License | Descriotion | Website |
 | :--: | :--------: | :------:  | :-------- | :-- | 
