@@ -36,11 +36,7 @@
 | 29 | SPDX Tools  | Apache-2.0  | - 단일 다운로드에서 변환, 비교 및 검증 기능 제공하는 자바 CLI 도구 <br /> - 제공기능: TagToSpreadsheet, TagToRDF, RdfToTag, RdfToHtml RdfToSpreadsheet, SpreadsheetToRDF, SpreadsheetToTag, SPDXViewer, CompareMultipleSpdxDocs, CompareSpdxDocs, GenerateVerificationCode | https://spdx.dev/resources/tools |
 | 30 | SPDX Maven Plugin  | Apaceh-2.0  | - POM 파일에 설명된 산풀물에 대한 SPDX 문서를 생성하는 Maven 플러그인 | https://github.com/spdx/spdx-maven-plugin |
 | 31 | TraceCode Toolkit  | Apaceh-2.0  | - 제품에 대해 실제로 배포 또는 배포되는 구성 요소를 결정하는 도구 <br /> - 많은 라이선스가 배포에 의해서만 트리거되므로 오픈소스 라이선스 의무를 결정하는 필수 정보 <br /> - 추적된 빌드 실행을 분석하는 도구로, 어떤 파일이 바이너리에 빌드되고 궁극적으로 분산 SW에 배포되는지 확인 가능 | https://www.aboutcode.org |
-
 | 32 | Tern  | BSD-2-Clause  | - 컨테이너용 SW 패키지 검사도구(Python). 컨테이너 이미지에 설치된 패키지의 메타데이터 검색 <br /> - Dockerfile에서 레이어를 생성하는 데 사용된 컴포넌트 정보 제공 <br /> - 작업 수행 단계 <br /> 1) overlayfs를 사용하여 컨테이너 이미지의 첫번째 파일 시스템 계층을 마운트 <br /> 2) chroot 환경의 명령 라이브러리에서 스크립트를 실행하여 해당 계층에 설치된 패키지에 대한 정보 수집 <br /> - : 해당 정보를 기반으로 컨테이너 이미지의 나머지 레이어에 대하 1단계와 2단계를 계속 반복 <br /> - 3) 완료되면 다양한 형식의 보고서 생성. 기본 보고서는 어떤 계층이 어떤 SW 구성요소를 가져왔는지에 대한 설명 | https://github.com/tern-tools/tern |
-
 | 33 | Vulnerability Assessment Tool  | Apache-2.0  | - 응용 개발 중 오픈소스 구성 요소의 안전한 사용과 관련하여 SW 개발 조직 지원 <br /> - Java 및 Python 응용 분석하여 알려진 취약성이 있는 오픈소스 구성요소애 의존하는지 여부를 감지하고, 지정된 응용 컨텍스트에서 취약한 코드 실행에 관한 증거를 수집 지원 <br /> - 데이터 유출의 근본 원인인 알려진 취약성이 있는 구성 요소 사용, OWASP 상위 10대 보안위험 A9 해결 | https://github.com/eclipse/steady |
-
 | 34 | REUSE  |   | - 프로젝트 라이선스를 쉽게 부여할 수 있는 권장사항들 제공 | https://reuse.software |
-
 | 35 | ClearlyDefined  | CC0-1.0, MIT  | - ScanCode, FOSSology 통하여 사용가능한 데이터를 수집하고 모호함이나 격차가 발생할 때 해당 정보의 큐레이션을 크라우드 소싱함 <br /> - 목표는 업스트림 프로젝트에 새로 발견된 명확성을 제공하여 다음 릴리즈에 업데이트를 포함하여 보다 명확하게 정의되도록 하는 것 | https://clearlydefined.io |
