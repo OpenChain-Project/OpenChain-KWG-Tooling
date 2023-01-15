@@ -5,7 +5,7 @@
 ## 1) Feactures of each Tool
 | No  | Name  | License | Descriotion | Website |
 | :--: | :--------: | :------:  | :-------- | :-- | 
-| 1 | Dependency-cruiser |   | - 종속성을 검증하고 시각화(JavaScript, Typescript, Coffeescript, ES6, CommonJS, AMD) |  |
+| 1 | Dependency-cruiser | MIT  | - 종속성을 검증하고 시각화(JavaScript, Typescript, Coffeescript, ES6, CommonJS, AMD) | https://github.com/sverweij/dependency-cruiser |
 | 2 | Piddeptree |   | - Python 패키지의 종속성 트리를 표시하는 명령어 유틸리티 |  |
 | 3 | objc-dependency-visualizer |   | - Objective-C 및 Swift의 종속성 가상화. 프로젝트의 현재 상태 및 클래스 결합도 표현 |  |
 | 4 | Dephell |   | - Python 프로젝트 관리. 패키지들 관리(format, lock, install, resolve, isolate, test, build graph, outdated, audit) |  |
