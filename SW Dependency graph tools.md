@@ -10,7 +10,7 @@
 | 3 | objc-dependency-visualizer | MIT | - Objective-C 및 Swift의 종속성 가상화. 프로젝트의 현재 상태 및 클래스 결합도 표현 | https://github.com/PaulTaykalo/objc-dependency-visualizer |
 | 4 | Dephell | MIT  | - Python 프로젝트 관리. 패키지들 관리(format, lock, install, resolve, isolate, test, build graph, outdated, audit) | https://github.com/dephell/dephell |
 | 5 | scancode-toolkit | Apache-2.0 & CC-BY-4.0  | - 스캐닝 코드로 라이선스, 저작권, 종속성을 감지해 코드에 사용된 오픈소스, 타사 패키지를 검색하고 목록화 | https://github.com/nexB/scancode-toolkit |
-| 6 | statoscope | MIT  | - 웹팩 번들을 분석하고 검증&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | https://github.com/statoscope/statoscope |
+| 6 | statoscope | MIT  | - 웹팩 번들을 분석하고 검증 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | https://github.com/statoscope/statoscope |
 | 7 | scabbard | Apache-2.0  | - Dagger 2의존성 그래프 시각화 | https://github.com/arunkumar9t2/scabbard |
 | 8 | Do | MIT  | - Go 1.18+ Generics 기반 의존성 주입 툴킷 | https://github.com/samber/do |
 | 9 | Ngd | MIT  | - Angular 응용의 의존성 트리 시각화 | https://github.com/compodoc/ngd |
