@@ -42,4 +42,4 @@ OpenChain Korea Work Group Tooling Sub-Group
 31. TraceCode toolkit
 32. Tern
 33. Vulnerability Assessment Tool
-34. Debricked (23-02-08 / LG전자, 최혜성)
+34. [**Debricked**](https://debricked.com/blog/open-source-license-families-compliance) (23-02-08 / LG전자, 최혜성)
