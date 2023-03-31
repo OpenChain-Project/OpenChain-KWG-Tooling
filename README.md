@@ -43,3 +43,5 @@ OpenChain Korea Work Group Tooling Sub-Group
 32. Tern
 33. Vulnerability Assessment Tool
 34. [**Debricked**](https://debricked.com/blog/open-source-license-families-compliance) (23-02-08 / LG전자, 최혜성)
+35. OSSelot
+     _Website(https://www.osselot.org)
